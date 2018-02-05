@@ -1,2 +1,2 @@
-# CNT-dataset
-scripts for creating CNT-dataset
+# Dataset-creating
+scripts for creating dataset for classification and detection
